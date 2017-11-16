@@ -29,7 +29,7 @@ $ pip3 install -r requirements.txt
 $ make
 ```
 
-__On osx with [Homebrew](https://brew.sh/):__
+__On macOS with [Homebrew](https://brew.sh/):__
 
 ```
 $ brew install mpv ffmpeg --verbose
@@ -71,7 +71,7 @@ optional arguments:
                         mpv ipc socket file location
 ```
 
-Example:
+### Examples
 
 Use an existing file:
 
