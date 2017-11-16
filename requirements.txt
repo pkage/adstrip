@@ -1,0 +1,5 @@
+youtube-dl
+opencv-python
+matplotlib
+numpy
+scikit-image

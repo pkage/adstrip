@@ -1,0 +1,14 @@
+.DS_Store
+**/*.mp4
+*.mp4
+*.jpeg
+*.jpg
+env_*/
+test/
+__pycache__/
+**/__pycache__/
+stream.txt
+reference.sh
+patterns/*.jpg
+patterns/*.png
+
